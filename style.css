@@ -1,0 +1,25 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bodyStyling{
+    padding: 20px;
+}
+
+.outerDiv{
+    width: 525px;
+    height: 300px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+}
+
+.imageDiv{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 100%;
+    overflow: hidden;
+}
